@@ -1,6 +1,8 @@
 # logrank.maxtest
 Maximum combination (MaxCombo) log-rank test Use logrank.maxtest With (In) R Software
 
+https://www.youtube.com/watch?v=JYd9AnAMqXI
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
